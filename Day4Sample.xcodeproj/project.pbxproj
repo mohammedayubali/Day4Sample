@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		9BA8D2102214DD000092F6A2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA8D20F2214DD000092F6A2 /* main.swift */; };
+		9BA8D2172214E84D0092F6A2 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA8D2162214E84D0092F6A2 /* Student.swift */; };
+		9BA8D2192214E9000092F6A2 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA8D2182214E9000092F6A2 /* Person.swift */; };
+		9BA8D21B2214E9E40092F6A2 /* Car .swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA8D21A2214E9E40092F6A2 /* Car .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		9BA8D20C2214DD000092F6A2 /* Day4Sample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Day4Sample; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA8D20F2214DD000092F6A2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9BA8D2162214E84D0092F6A2 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		9BA8D2182214E9000092F6A2 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		9BA8D21A2214E9E40092F6A2 /* Car .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Car .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				9BA8D20F2214DD000092F6A2 /* main.swift */,
+				9BA8D2162214E84D0092F6A2 /* Student.swift */,
+				9BA8D2182214E9000092F6A2 /* Person.swift */,
+				9BA8D21A2214E9E40092F6A2 /* Car .swift */,
 			);
 			path = Day4Sample;
 			sourceTree = "<group>";
@@ -119,7 +128,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BA8D2192214E9000092F6A2 /* Person.swift in Sources */,
 				9BA8D2102214DD000092F6A2 /* main.swift in Sources */,
+				9BA8D2172214E84D0092F6A2 /* Student.swift in Sources */,
+				9BA8D21B2214E9E40092F6A2 /* Car .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
